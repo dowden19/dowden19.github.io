@@ -1,0 +1,48 @@
+
+.cover {
+  background-image: url(https://www.unc.edu/wp-content/uploads/2019/05/Option-2-e1618229469756-1200x675.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 752px;
+  /* margin: -16px; */
+}
+
+.main {
+  background-color: #99bef7;
+  position: relative;
+  top: 20%;
+  text-align: center;
+  display: block;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  opacity: 85%;
+}
+
+p {
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+  padding-bottom: 0px;
+  color: white;
+}
+
+a {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Verdana, sans-serif;
+  color: white;
+  font-size: 18px;
+}
+
+a:hover {
+  color: grey;
+}
