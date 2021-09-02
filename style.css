@@ -59,11 +59,12 @@ body {
 #resumelink {
   top: 50%;
   padding: 15px;
-  margin-top: 320px;
+  margin-top: 220px;
   display: inline-block;
   vertical-align: top;
   text-align: center;
   margin-right: 30px;
+  margin-left: 200px;
   background-color: #99bef7;
   color: white;
   text-decoration: none;
